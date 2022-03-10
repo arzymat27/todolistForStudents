@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.list{
+  display: flex;
+}
+.elem{
+  padding-left: 4rem;
+}
